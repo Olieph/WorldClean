@@ -1,0 +1,32 @@
+{
+    margin:0px;
+    padding:0px;
+}
+div#principal{
+    margin-top: 0px;
+    margin: 5px;
+    width: 1870px;
+    height: 1500px;
+    background-color: blanchedalmond;
+    text-align: justify;
+    text-align: center;
+}
+div#header{
+    background-color: rgb(95, 233, 233);
+    text-align: center;
+    height: 100px;
+}
+div#nav{
+    background-color: rgb(168, 253, 253);
+    text-align: right;
+}
+div#footer{
+    background-color: rgb(168, 253, 253);
+    height: 60px;
+    text-align: left;
+    font-size: xx-large;
+}
+div#redes{
+    float: right;
+    margin: 5px;
+}
